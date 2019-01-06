@@ -1,7 +1,7 @@
 import React from 'react'; // the react machine under the hood
 import ReactDOM from 'react-dom'; // dom for website view manipulation; native for mobile
 import './index.css';
-import App from './App';
+import App from './containers/App';
 import * as serviceWorker from './serviceWorker';
 import 'tachyons';
 
